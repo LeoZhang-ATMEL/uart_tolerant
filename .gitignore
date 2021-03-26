@@ -1,0 +1,18 @@
+##### Harmony3 Project
+**/**.X/*
+!**/**.X/Makefile
+!**/**.X/.main-meta/
+**/**.X/.main-meta/*
+!**/**.X/.main-meta/main.json
+!**/**.X/nbproject/
+**/**.X/nbproject/*
+!**/**.X/nbproject/configurations.xml
+!**/**.X/nbproject/project.xml
+
+##### Harmony3 IAR Project
+**/**.IAR/*
+!**/**.IAR/*.ewd
+!**/**.IAR/*.ewp
+!**/**.IAR/*.eww
+!**/**.IAR/*.h3state
+
